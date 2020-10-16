@@ -22,7 +22,7 @@ myarr=np.array([3,6,32,7]) #always list or tuple should be passed as input to a 
 
 myarr=np.array([32,65,32,32771],np.uint16)
 
-myarr=np.array([32,65,321232,71],np.int8) #Bigger number gets garbage value.
+myarr=np.array([32,65,321232,71,30,50],np.int8) #Bigger number gets garbage value.
 
 #1-D Array
 myarr=np.array([32,65,321232,71],np.int32)
